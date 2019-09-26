@@ -45,6 +45,9 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
 
+/**
+ * 项目说明地址:https://juejin.im/post/5d1356166fb9a07ed4411173
+ */
 public class MainActivity extends AppCompatActivity {
     private WifiManager wifiManager;
     private NetworkInfo lastNetworkInfo;
