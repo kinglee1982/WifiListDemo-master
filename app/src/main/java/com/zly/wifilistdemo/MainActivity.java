@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
     private Network currentNetwork;
     private int lastPortalNetworkId = AccessPoint.INVALID_NETWORK_ID;
 
+
     private Disposable scanWifi;
 
     private WifiListAdapter adapter;
